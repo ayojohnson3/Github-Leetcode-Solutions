@@ -1,6 +1,8 @@
 
 
-
+"""
+Two sum 
+"""
 
 def twoSum(array, target):
     hashmap = {}
